@@ -41,7 +41,7 @@ Die Automation habe ich für alle meine Dryboxen dupliziert. Da die Kisten numme
 
 ## 🪜 DIY-Projekt 2: Sequenzielle Treppenbeleuchtung (Work in Progress)
 
-Ich habe die schlechte Angewohnheit, nachts das Licht nicht anzumachen, wenn ich die Treppe hoch- oder runtergehe. Bisher ist dabei noch nie etwas passiert, aber mir ist klar, dass die Sturzgefahr im Dunkeln deutlich erhöht ist. Auf eine vollkommen vermeidbare Querschnittslähmung kann ich gerne verzichten. Obwohl ich schon *lange* versuche, mir anzugewöhnen, Licht zu schaffen, bevor ich Treppen steige, ertappe ich mich regelmäßig auf halbem Weg dabei, dass ich *schon wieder* blind das Stockwerk wechsle.
+Ich habe die schlechte Angewohnheit, nachts das Licht nicht anzumachen, wenn ich die Treppe hoch- oder runtergehe. Bisher ist dabei noch nie etwas passiert, aber mir ist klar, dass die Sturzgefahr im Dunkeln deutlich erhöht ist. Auf vollkommen vermeidbare Verletzungen kann ich gerne verzichten, deshalb versuche ich schon *lange*, mir anzugewöhnen, Licht zu schaffen, bevor ich Treppen steige. Trotzdem ertappe ich mich weiterhin regelmäßig auf halbem Weg dabei, dass ich *schon wieder* blind das Stockwerk wechsle.
 
 Neulich kam mir eine Idee, mit der ich dieses Problem aus der Welt schaffen und der Wohnung gleichzeitig ein stilvolles Upgrade verpassen kann: Lichtstreifen unter den Stufen, die automatisch reagieren, wenn die Treppe nachts betreten wird. Nach Sonnenuntergang soll die Beleuchtung mit einem laufrichtungsabhängigen Sequenzeffekt angehen.
 
